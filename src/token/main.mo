@@ -5,7 +5,7 @@ import Iter "mo:base/Iter";
 
 actor Token {
 
-  let owner : Principal = Principal.fromText("<REPLACE WITH YOUR OWN COMMAND LINE PRINCIPAL SEE README>");
+  let owner : Principal = Principal.fromText("<ctn45-d2qu6-panq5-hoynl-j7rxd-ljumv-33kfy-b374j-x7vqv-y22ux-rqe>");
   let totalSupply : Nat = 1000000000000000;
   let symbol : Text = "DANG";
 
